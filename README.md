@@ -1,4 +1,4 @@
-Sure! Below is a **README.md** file for your Power BI project repository.  
+  
 
 ---
 
@@ -55,9 +55,11 @@ The Power BI report includes the following insights:
 
 ## 📩 **Contact & Feedback**  
 Feel free to connect with me for any questions or improvements!  
-✉️ **Email:** [your email]  
-🔗 **LinkedIn:** [your LinkedIn profile]  
+💼 [LinkedIn](https://www.linkedin.com/in/nikita-gaondhare-9511242562-/)  
+📧 [Email](mailto:gaondharenikita2506@gmail.com)  
+🌍 [GitHub](https://github.com/nikgavandhare)
+
 
 ---
 
-Would you like me to add any additional details or links to your portfolio? 😊🚀
+
