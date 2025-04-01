@@ -54,7 +54,8 @@ The Power BI report includes the following insights:
 ---
 
 ## 📸 **Dashboard Screenshot**  
-![Sales Report Dashboard](https://github.com/user-attachments/assets/746293b7-3ec3-4389-9684-bd263aacab53)
+
+![Sales_Report_Dashboard-](https://github.com/user-attachments/assets/b9d54691-769d-4d70-8576-0a56e789d7bd)
 
 
 
