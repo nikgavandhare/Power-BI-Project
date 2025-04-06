@@ -80,7 +80,9 @@
 ---
 
 ### 🌐  Dashboard 
-![Uploading Screenshot 2025-04-01 123522.png…]()
+
+![Screenshot 2025-04-01 123522](https://github.com/user-attachments/assets/ba6c5bc8-1fc8-4b5c-8297-ba784b64bc0e)
+
 
 
 ---
@@ -116,4 +118,3 @@
 ---
 
 
-Would you like me to **edit your existing GitHub README.md file** into this format? I can give you the exact markdown copy-paste version. Let me know!
